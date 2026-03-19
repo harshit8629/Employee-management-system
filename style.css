@@ -1,0 +1,12 @@
+body {
+    padding-top: 20px;
+}
+.container {
+    max-width: 800px;
+}
+.alert {
+    margin-top: 20px;
+}
+table {
+    margin-top: 20px;
+}
